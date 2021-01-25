@@ -1,1 +1,1 @@
-web: gunicorn logrocket_env.wsgi --log-file -
+web: gunicorn django_react_proj.wsgi --log-file -
